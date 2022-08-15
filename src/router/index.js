@@ -5,12 +5,12 @@ import Home from '../views/Home'
 
 const routes =[
     {
-        path:'/',
+        path:'/about',
         name: 'About',
         component: About
     },
     {
-        path:'/home',
+        path:'/',
         name: 'Home',
         component: Home
     }
